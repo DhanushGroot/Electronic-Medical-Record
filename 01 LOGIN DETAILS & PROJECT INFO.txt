@@ -1,6 +1,6 @@
 **Database Name: prmsdb**
 
-**Developed by Anjan kumar N**
+**Developed by Dhanush D**
 
 **Recommended PHP Version 5.6.3 and 7.4.12**
 
